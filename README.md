@@ -6,4 +6,4 @@ I'm [Borb](https://twitter.com/oggborbis)! I make [video games](https://borbware
 
 Even more importantly, I also want **you** to learn how to make video games!! Because apparently, you don't need a master's thesis for that!!
 
-Everything is on this repo's [wiki](wiki), the repository itself doesn't contain anything meaningful yet (maybe some example files in the future!)
+Everything is on this repo's [wiki](https://github.com/borbware/So-you-want-to-make-video-games/wiki), the repository itself doesn't contain anything meaningful yet (maybe I'll upload some example files in the future!)
